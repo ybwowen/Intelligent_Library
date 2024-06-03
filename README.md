@@ -48,6 +48,10 @@ pip install -r requirements.txt
 
 你可以借助`setup_map.py`将`Library/library.jpg`转换为二值化之后的地图。注意自适应二值化方法只是给出了一个粗糙的结果，精细调整可能需要其他的cv方法 ~~（或者直接PS）~~
 
+模型和api的使用方法详见Langchain-Chatchat的官方文档
+
+如果你需要本地跑大模型，请将他们放置在`/model`文件夹下，并修改`model_config.py`中的相应内容
+
 ### 运行
 
 先运行
