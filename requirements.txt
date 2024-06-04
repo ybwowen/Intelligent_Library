@@ -40,7 +40,7 @@ vllm==0.2.7; sys_platform == "linux"
 httpx==0.26.0
 llama-index==0.9.35
 
-gradio==0.33.0
+gradio==3.33.0
 opencv-python==4.9.0
 
 # jq==1.6.0
